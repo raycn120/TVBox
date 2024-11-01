@@ -202,7 +202,7 @@
       "type": 0,
       "url": "https://ghp.ci/https://raw.githubusercontent.com/raycn120/tvbox/main/live/cmsd.m3u",
       "playerType": 1,
-      "logo": "https://ghp.ci/https://raw.githubusercontent.com/raycn120/tvbox/main/live/logo/{name}.png"
+      "logo": "https://gitee.com/raycn1987/tvbox/raw/master/live/logo/{name}.png"
     }
   ]
 }
