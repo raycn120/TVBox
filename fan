@@ -615,9 +615,9 @@
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [
     {
-      "name": "IPV6②",
+      "name": "山东移动IPTV",
       "type": 0,
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/raycn120/tvbox/refs/heads/main/live/cmsd.m3u",
       "playerType": 1,
       "logo": "https://raw.githubusercontent.com/raycn120/tvbox/main/live/logo/{name}.png"
     }
