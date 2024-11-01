@@ -619,7 +619,7 @@
       "type": 0,
       "url": "https://ghp.ci/https://raw.githubusercontent.com/raycn120/tvbox/refs/heads/main/live/cmsd.m3u",
       "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
+      "logo": "https://gitee.com/raycn120/tvbox/raw/master/live/logo/{name}.png"
     }
   ]
 }
