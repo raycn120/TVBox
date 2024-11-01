@@ -1,6 +1,6 @@
 {
   "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730404699092/fan.txt;md5;4e9f85464f8b911cc14f1359cd576f25",
-  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "wallpaper": "http://tool.teyonds.com/api",
   "sites": [
     {
       "key": "玩偶",
