@@ -200,9 +200,9 @@
     {
       "name": "山东移动IPTV",
       "type": 0,
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/raycn120/tvbox/main/live/cmsd.m3u",
+      "url": "./live/cmsd.m3u",
       "playerType": 1,
-      "logo": "https://gitee.com/raycn1987/tvbox/raw/master/live/logo/{name}.png"
+      "logo": "./live/logo/{name}.png"
     }
   ]
 }
