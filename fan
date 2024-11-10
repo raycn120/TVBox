@@ -18,16 +18,6 @@
       }
     },
     {
-      "key": "alllive",
-      "name": "📽️一直播┃直播",
-      "type": 3,
-      "api": "csp_Alllive",
-      "playerType": 2,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
       "key": "Lib",
       "name": "🌟立播┃秒播",
       "type": 3,
