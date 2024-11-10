@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730839416167/fan.txt;md5;0f1d73221352f4e6b049b3291f96d75d",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731126610038/fan.txt;md5;118bca13418f13c45c5c237ac93c2f07",
   "wallpaper": "http://tool.teyonds.com/api",
   "sites": [
     {
@@ -18,49 +18,14 @@
       }
     },
     {
-      "key": "YGP",
-      "name": "🚀叨观荐影┃新片",
-      "type": 3,
-      "api": "csp_YGP",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
       "key": "alllive",
-      "name": "📽️一直播┃LIVE",
+      "name": "📽️一直播┃直播",
       "type": 3,
       "api": "csp_Alllive",
       "playerType": 2,
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
-    },
-    {
-      "key": "米搜",
-      "name": "🦋米盘┃搜搜",
-      "type": 3,
-      "api": "csp_MIPanSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "抠搜",
-      "name": "🍄抠抠┃搜搜",
-      "type": 3,
-      "api": "csp_KkSs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
     },
     {
       "key": "Lib",
@@ -86,13 +51,15 @@
       "changeable": 1
     },
     {
-      "key": "糯米",
-      "name": "🍓糯米┃秒播",
+      "key": "zxzj",
+      "name": "🍊在线┃秒播",
       "type": 3,
-      "api": "csp_Nmyswv",
+      "api": "csp_Zxzj",
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext": "https://www.zxzjhd.com/"
     },
     {
       "key": "比特",
@@ -131,7 +98,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvEpcoxZIYRQNwQCG8Otba0yUlXQMqbvyrYj1rF/ef6Syy5Zj/ZkmAqgHsuU3lxEs8zPFZMXNqLxA+MbSlPxmlA1/58U/OgZ2I7cEW5ZHV6hg=="
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"
     },
     {
       "key": "热播",
@@ -166,6 +133,16 @@
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
     {
+      "key": "速播",
+      "name": "⏮️速播┃多线",
+      "type": 3,
+      "api": "csp_AppSx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvEpcoxb5sQXd8GDXUTvbqvx0peQcuZ7GvQ0UGD/a2mS238cHqYkiBgwCduCiYrTZJtbwdDUt/L2w/LOWADxikKl6I8Cqz6OD9lIxS2anA6ytPprjXXepEhRI1g+FIGqkCgBFA="
+    },
+    {
       "key": "欢视",
       "name": "👓欢视┃多线",
       "type": 3,
@@ -182,27 +159,6 @@
       "type": 3,
       "api": "csp_Kekys",
       "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "zxzj",
-      "name": "🍊在线┃外剧",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzjhd.com/"
-    },
-    {
-      "key": "低端",
-      "name": "⏮️低端┃外剧",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
