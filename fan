@@ -194,20 +194,6 @@
       "url": "./live/cmsd.m3u",
       "playerType": 1,
       "logo": "https://gitee.com/raycn1987/tvbox/raw/master/live/logo/{name}.png"
-    },
-    {
-      "name": "斗鱼",
-      "type": 0,
-      "url": "./live/douyu.m3u",
-      "playerType": 1,
-      "logo": "https://gitee.com/raycn1987/tvbox/raw/master/live/logo/{name}.png"
-    },
-    {
-      "name": "虎牙",
-      "type": 0,
-      "url": "./live/huya.m3u",
-      "playerType": 1,
-      "logo": "https://gitee.com/raycn1987/tvbox/raw/master/live/logo/{name}.png"
     }
   ]
 }
