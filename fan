@@ -194,8 +194,7 @@
       "url": "./lives/cmsd.m3u",
       "playerType": 1,
       "logo": "https://gitee.com/raycn1987/tvbox/raw/master/live/logo/{name}.png"
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
     },
     {
       "name": "网络直播",
