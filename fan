@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732351865966/fan.txt;md5;73c62850faf556c9c2d7048baf3a5d3a",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732559427206/fan.txt;md5;4e2429f30551927d1831c19063158ee9",
   "wallpaper": "http://tool.teyonds.com/api",
   "sites": [
     {
@@ -59,15 +59,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.zxzjhd.com/"
-    },
-    {
-      "key": "比特",
-      "name": "🍄比特┃秒播",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "苹果",
@@ -170,8 +161,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
-      "ext": "https://notabug.org/fantaiying/ext/raw/main/jp.js"
+      "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jp.js"
     },
     {
       "key": "Auete",
