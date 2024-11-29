@@ -193,6 +193,7 @@
       "type": 0,
       "url": "./lives/cmsd.m3u",
       "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://gitee.com/raycn1987/tvbox/raw/master/live/logo/{name}.png"
     },
     {
