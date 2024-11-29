@@ -191,7 +191,14 @@
     {
       "name": "山东移动IPTV",
       "type": 0,
-      "url": "./live/cmsd.m3u",
+      "url": "./lives/cmsd.m3u",
+      "playerType": 1,
+      "logo": "https://gitee.com/raycn1987/tvbox/raw/master/live/logo/{name}.png"
+    },
+    {
+      "name": "网络直播",
+      "type": 0,
+      "url": "./lives/webcast.m3u",
       "playerType": 1,
       "logo": "https://gitee.com/raycn1987/tvbox/raw/master/live/logo/{name}.png"
     }
