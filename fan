@@ -192,14 +192,14 @@
       "name": "山东移动IPTV",
       "type": 0,
       "url": "./live/cmsd.txt",
-      "logo": "./live/logo/{name}.png"，
+      "logo": "./live/logo/{name}.png",
       "playerType": 1
     },
     {
       "name": "网络直播",
       "type": 0,
       "url": "./live/web.m3u",
-      "logo": "./live/logo/{name}.png"，
+      "logo": "./live/logo/{name}.png",
       "playerType": 1
     }
   ]
