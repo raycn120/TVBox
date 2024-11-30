@@ -129,8 +129,6 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000355/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000356/index.m3u8
 #EXTINF:-1 tvg-name="CGTN-俄语" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/raycn120/tvbox/main/live/logo/CGTN-俄语.png" group-title="文化频道",CGTN-俄语
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000357/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-4K" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/raycn120/tvbox/main/live/logo/CCTV-4K.png" group-title="文化频道",CCTV-4K
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/raycn120/tvbox/main/live/logo/快乐垂钓.png" group-title="文化频道",快乐垂钓
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000648/index.m3u8
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/raycn120/tvbox/main/live/logo/茶频道.png" group-title="文化频道",茶频道
