@@ -200,7 +200,6 @@
       "type": 0,
       "url": "./live/web.m3u",
       "logo": "./live/logo/{name}.png",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "playerType": 1
     }
   ]
