@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 tvg-name="吉罗很快乐" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/raycn120/tvbox/main/live/logo/吉罗很快乐.png" group-title="数字频道",吉罗很快乐
 http://playtx115333.shangzhibo.tv/onelive/10223240-zWL1fxQ7a.flv
 #EXTINF:-1 tvg-name="不死鸟总监" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/raycn120/tvbox/main/live/logo/不死鸟总监.png" group-title="数字频道",不死鸟总监
