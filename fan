@@ -197,7 +197,7 @@
       "ext": "https://www.xb6v.com/"
     }
   ],
-  "logo": "http://i0.hdslb.com/bfs/new_dyn/06dbbfd9ebec0971730b1006b6625528131124505.jpg",
+  "logo": "https://tv.iill.top/LOGO/21775845&bilibili&logo",
   "lives": [
     {
       "name": "山东移动IPTV",
