@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="吉罗很快乐" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/raycn120/tvbox/main/live/logo/吉罗很快乐.png" group-title="•上直播「体育」",吉罗很快乐
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/24879049&bilibili&logo" group-title="•上直播「体育」",吉罗很快乐
 http://playtx115333.shangzhibo.tv/onelive/10223240-zWL1fxQ7a.flv
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/22747736&bilibili&logo" group-title="•B站「游戏」",不死鸟总监
 https://live.iill.top/bilibili/22747736
@@ -9,5 +9,4 @@ https://live.iill.top/bilibili/21533102
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11437&douyu&logo" group-title="•斗鱼「游戏」",丨ABang阿帮丨
 https://live.iill.top/douyu/11437
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/312339&douyu&logo" group-title="•斗鱼「游戏」",何美麗
-https://live.iill.top/douyu/312339
 https://live.iill.top/douyu/312339
