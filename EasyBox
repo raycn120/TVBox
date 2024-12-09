@@ -203,7 +203,7 @@
     {
       "name": "山东移动IPTV",
       "type": 0,
-      "url": "./live/cmsd.txt",
+      "url": "./live/cmsd",
       "logo": "./live/logo/{name}.png",
       "epg": "http://epg.51zmt.top:8000/api/i/?ch={name}&date=",
       "playerType": 1
