@@ -204,7 +204,7 @@
       "type": 0,
       "url": "./live/cmsd.txt",
       "logo": "./live/logo/{name}.png",
-      "epg": "http://epg.51zmt.top:8000/api/i/?ch={name}&amp;date={date}",
+      "epg": "http://epg.51zmt.top:8000/api/i/?ch={name}&date={date}",
       "playerType": 1
     },
     {
