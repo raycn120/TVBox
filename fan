@@ -204,6 +204,7 @@
       "type": 0,
       "url": "./live/cmsd.m3u",
       "logo": "./live/logo/{name}.png",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "playerType": 1
     },
     {
@@ -211,7 +212,7 @@
       "type": 0,
       "url": "./live/web.m3u",
       "logo": "./live/logo/{name}.png",
-      "epg": "http://epg.51zmt.top:8000/api/i/?ch={name}&date={date}",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "playerType": 1
     }
   ]
