@@ -203,9 +203,9 @@
     {
       "name": "山东移动IPTV",
       "type": 0,
-      "url": "./live/1",
+      "url": "./live/cmsd",
       "logo": "./live/logo/{name}.png",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={tvg-name}&date={date}",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "playerType": 1
     }
   ]
