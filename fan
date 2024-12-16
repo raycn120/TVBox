@@ -172,8 +172,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jp.js"
+      "api": "https://ghproxy.cc/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://ghproxy.cc/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jp.js"
     },
     {
       "key": "Auete",
