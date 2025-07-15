@@ -22,7 +22,7 @@
 {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixVGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.xb6v.com/"}
 ]，
 "lives": [
-{"name": "山东移动IPTV","type": 0,"url": "./live/cmsd.m3u","logo": "./live/logo/{name}.png","logo": "./live/logo/{name}.png","playerType": 1}，
+{"name": "山东移动IPTV","type": 0,"url": "./live/cmsd.m3u","logo": "./live/logo/{name}.png","playerType": 1}，
 {"name": "网络直播","type": 0,"url": "./live/web.m3u","logo": "./live/logo/{name}.png","playerType": 1}
 ]
 }
