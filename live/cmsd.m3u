@@ -189,3 +189,9 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://gh-proxy.com/https://raw.github.com/raycn120/tvbox/main/live/logo/咪咕视频.png" group-title="数字频道",咪咕视频
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/01bb859183ed6706a0ab68042cd3ea1b18ff8ebd.jpg" group-title="•B站「体育」",真实球迷汇
+https://live07.sships.com/live/74597727_high.m3u8
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/96b0ea0c9b3c4365d5f82bf90920c6ca32c9b085.jpg" group-title="•B站「体育」",吉罗很快乐
+https://livetx115333.shangzhibo.tv/onelive/10223240-zWL1fxQ7a.flv
+#EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/3d6284c702762c351b063f95639566a704f34aa8.jpg" group-title="•B站「游戏」",不死鸟总监
+https://d1--cn-gotcha204-2.bilivideo.com/live-bvc/164591/live_406986743_49167407/index.m3u8?expires=1724124626&len=0&oi=3085889100&pt=web&qn=10000&trid=10074360374271884cb99e928b77f01886e1&sigparams=cdnexpireslenoiptqntrid&cdn=cn-gotcha204&sign=c5845a57797110cbc57141404df4d754&sk=16caa73c39ecd24aa8f3fef4d712ca7d&p2p_type=1&sl=10&free_type=0&mid=38260917&pp=rtmp&source=onetier&trace=40&site=0bead1dc66b74cf1a97c90208d3b9ae8&order=3
