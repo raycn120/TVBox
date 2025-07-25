@@ -198,21 +198,21 @@
       "ext": "https://www.xb6v.com/"
     }
   ],
-  "logo": "https://cdn.wmpvp.com/steamWeb/B96F868DE45B45D690B5F9F490D0BC60-1745866248445.gif",
+  "logo": "https://avatars.githubusercontent.com/u/154854684?v=4",
   "lives": [
     {
       "name": "山东移动",
       "type": 0,
       "url": "./live/cmsd.m3u",
       "logo": "./live/logo/{name}.png",
-      "playerType": 1
+      "playerType": 2
     },
     {
-      "name": "平台直播",
+      "name": "网络平台",
       "type": 0,
       "url": "./live/web.m3u",
       "logo": "./live/logo/{name}.png",
-      "playerType": 1
+      "playerType": 2
     }
   ]
 }
