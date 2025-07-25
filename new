@@ -205,14 +205,14 @@
       "type": 0,
       "url": "./live/cmsd.m3u",
       "logo": "./live/logo/{name}.png",
-      "playerType": 2
+      "playerType": 1
     },
     {
       "name": "平台直播",
       "type": 0,
       "url": "./live/web.m3u",
       "logo": "./live/logo/{name}.png",
-      "playerType": 2
+      "playerType": 1
     }
   ]
 }
