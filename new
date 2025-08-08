@@ -210,7 +210,7 @@
     {
       "name": "网络平台",
       "type": 0,
-      "url": "./live/web.m3u",
+      "url": "./live/net.m3u",
       "logo": "./live/logo/{name}.png",
       "playerType": 1
     }
