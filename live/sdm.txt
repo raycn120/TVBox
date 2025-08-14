@@ -102,5 +102,3 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 咪咕视频,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 咪咕视频,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 咪咕视频,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-
-
