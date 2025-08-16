@@ -100,5 +100,3 @@ EETV,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000671/index.m3u8
 CHC家庭影院,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
 CHC影迷电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
 CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
-智慧康养,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002031/index.m3u8
-测试,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002032/index.m3u8
