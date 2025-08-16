@@ -189,7 +189,3 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="./logo/CHC动作电影.png" group-title="文化频道",CHC动作电影
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
-#EXTINF:-1 tvg-name="智慧康养" tvg-logo="./logo/智慧康养.png" group-title="数字频道",智慧康养
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002031/index.m3u8
-#EXTINF:-1 tvg-name="测试" tvg-logo="./logo/测试.png" group-title="数字频道",测试
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002032/index.m3u8
