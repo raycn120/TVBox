@@ -151,12 +151,6 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000661/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000666/index.m3u8
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="./logo/求索纪录.png" group-title="文化频道",求索纪录
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000667/index.m3u8
-#EXTINF:-1 tvg-name="EETV" tvg-logo="./logo/EETV.png" group-title="文化频道",EETV
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000671/index.m3u8
-#EXTINF:-1 tvg-name="中华特产" tvg-logo="./logo/中华特产.png" group-title="文化频道",中华特产
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000672/index.m3u8
-#EXTINF:-1 tvg-name="中央新影中学生" tvg-logo="./logo/中央新影中学生.png" group-title="文化频道",中央新影中学生
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000673/index.m3u8
 #EXTINF:-1 tvg-name="居家购物" tvg-logo="./logo/居家购物.png" group-title="文化频道",居家购物
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000700/index.m3u8
 #EXTINF:-1 tvg-name="汽摩" tvg-logo="./logo/汽摩.png" group-title="文化频道",汽摩
