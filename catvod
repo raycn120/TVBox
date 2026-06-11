@@ -1,11 +1,11 @@
 {
   "spider": "https://tvbox.catvod.com/catvod.jar;md5;392df5f6a1c925c9f765c7e4b6f3eda4",
-  "wallpaper": "https://imgs.catvod.com",
-  "logo": "https://tvbox.catvod.com/logo.png",
+  "wallpaper": "http://tool.teyonds.com/api",
+  "logo": "https://avatars.githubusercontent.com/u/154854684?v=4",
   "sites": [
     {
       "key": "豆瓣",
-      "name": "www.Catvod.com 本站(所有内容仅供测试学习使用,请勿用于违法用途.)",
+      "name": "豆瓣",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 1,
@@ -181,19 +181,15 @@
     "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
   ],
   "lives": [
-     {
-      "name": "山东移动",
+    {
+      "name": "catvod.com",
       "type": 0,
-      "url": "./live/sdm.m3u",
-      "logo": "./live/logo/{name}.png",
-      "playerType": 1
+      "url": "https://iptv.catvod.com/tv.m3u"
     },
     {
-      "name": "网络平台",
+      "name": "catvod.com(备用)",
       "type": 0,
-      "url": "./live/net.m3u",
-      "logo": "./live/logo/{name}.png",
-      "playerType": 1
+      "url": "https://live.catvod.com/tv.m3u"
     }
   ]
 }
