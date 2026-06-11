@@ -1,7 +1,7 @@
 {
   "spider": "https://tvbox.catvod.com/catvod.jar;md5;392df5f6a1c925c9f765c7e4b6f3eda4",
-  "wallpaper": "https://imgs.catvod.com",
-  "logo": "https://tvbox.catvod.com/logo.png",
+  "wallpaper": "http://tool.teyonds.com/api",
+  "logo": "https://avatars.githubusercontent.com/u/154854684?v=4",
   "sites": [
     {
       "key": "豆瓣",
