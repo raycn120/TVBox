@@ -45,16 +45,16 @@
       "ext": "https://tvbox.catvod.com/js/sg.js"
     },
     {
-      "key": "MGTV",
-      "name": "MGTV",
+      "key": "芒果",
+      "name": "芒果",
       "type": 3,
       "playerType": "2",
       "api": "https://tvbox.catvod.com/js/drpy2.min.js",
       "ext": "https://tvbox.catvod.com/js/mgtv.js"
     },
     {
-      "key": "bili",
-      "name": "bili",
+      "key": "哔哩",
+      "name": "哔哩",
       "type": 3,
       "playerType": "2",
       "api": "https://tvbox.catvod.com/js/drpy2.min.js",
