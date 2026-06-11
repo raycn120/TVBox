@@ -1,13 +1,22 @@
 {
   "spider": "https://tvbox.catvod.com/catvod.jar;md5;392df5f6a1c925c9f765c7e4b6f3eda4",
-  "wallpaper": "http://tool.teyonds.com/api",
-  "logo": "https://avatars.githubusercontent.com/u/154854684?v=4",
+  "wallpaper": "https://imgs.catvod.com",
+  "logo": "https://tvbox.catvod.com/logo.png",
   "sites": [
     {
       "key": "豆瓣",
-      "name": 豆瓣",
+      "name": "www.Catvod.com 本站(所有内容仅供测试学习使用,请勿用于违法用途.)",
       "type": 3,
       "api": "csp_Douban",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "360影视",
+      "name": "360影视",
+      "type": 3,
+      "api": "csp_SP360",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -45,20 +54,28 @@
       "ext": "https://tvbox.catvod.com/js/sg.js"
     },
     {
-      "key": "芒果",
-      "name": "芒果,
+      "key": "MGTV",
+      "name": "MGTV",
       "type": 3,
       "playerType": "2",
       "api": "https://tvbox.catvod.com/js/drpy2.min.js",
       "ext": "https://tvbox.catvod.com/js/mgtv.js"
     },
     {
-      "key": "哔哩",
-      "name": "哔哩",
+      "key": "bili",
+      "name": "bili",
       "type": 3,
       "playerType": "2",
       "api": "https://tvbox.catvod.com/js/drpy2.min.js",
       "ext": "https://tvbox.catvod.com/js/bili.js"
+    },
+    {
+      "key": "ikanbot",
+      "name": "ikanbot",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+      "ext": "https://tvbox.catvod.com/js/ik.js"
     },
     {
       "key": "采集之王",
@@ -78,6 +95,25 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "急救",
+      "name": "急救",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "推送",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/tv/token.txt"
     },
     {
       "key": "本地",
@@ -145,19 +181,15 @@
     "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
   ],
   "lives": [
-     {
-      "name": "山东移动",
+    {
+      "name": "catvod.com",
       "type": 0,
-      "url": "./live/sdm.m3u",
-      "logo": "./live/logo/{name}.png",
-      "playerType": 1
+      "url": "https://iptv.catvod.com/tv.m3u"
     },
     {
-      "name": "网络平台",
+      "name": "catvod.com(备用)",
       "type": 0,
-      "url": "./live/net.m3u",
-      "logo": "./live/logo/{name}.png",
-      "playerType": 1
+      "url": "https://live.catvod.com/tv.m3u"
     }
   ]
 }
