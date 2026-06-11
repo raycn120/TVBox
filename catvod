@@ -13,15 +13,6 @@
       "filterable": 1
     },
     {
-      "key": "360影视",
-      "name": "360影视",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "爱奇艺",
       "name": "爱奇艺",
       "type": 3,
