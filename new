@@ -10,7 +10,8 @@
       "playerType": "2",
       "api": "https://tvbox.catvod.com/js/drpy2.min.js",
       "ext": "https://tvbox.catvod.com/js/aqy.js"
-    },    {
+    },
+    {
       "key": "光影",
       "name": "🌞光影┃不卡",
       "type": 3,
