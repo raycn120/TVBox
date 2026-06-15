@@ -4,14 +4,6 @@
   "spider": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/jar/fan.txt;md5;c1bb8166a36306e250f791897717deb0",
   "sites": [
     {
-      "key": "爱奇艺",
-      "name": "爱奇艺",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/js/aqy.js"
-    },
-    {
       "key": "光影",
       "name": "🌞光影┃不卡",
       "type": 3,
