@@ -1,6 +1,7 @@
 {
-  "spider": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/jar/fan.txt;md5;c1bb8166a36306e250f791897717deb0",
+  "logo": "https://avatars.githubusercontent.com/u/154854684?v=4",
   "wallpaper": "http://tool.teyonds.com/api",
+  "spider": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/jar/fan.txt;md5;c1bb8166a36306e250f791897717deb0",
   "sites": [
     {
       "key": "光影",
@@ -143,7 +144,6 @@
       "ext": "https://www.xb6v.com/"
     }
   ],
-  "logo": "https://avatars.githubusercontent.com/u/154854684?v=4",
   "lives": [
     {
       "name": "山东移动",
