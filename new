@@ -46,7 +46,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
-    }
+    },
+    {"key": "看球","name": "⚽八八┃看球","type": 3,"api": "csp_KanqiuGuard","timeout": 10,"searchable": 0,"changeable": 0,"style": {"type": "list"}},
+    {"key": "多多","name": "🏀多多┃看球","type": 3,"api": "csp_DoubaoGuard","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}},
+    {"key": "超全","name": "🏐吃瓜┃看球","type": 3,"api": "csp_LiveGzGuard","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}}
   ],
   "lives": [
     {
