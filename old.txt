@@ -198,7 +198,7 @@
     {
       "name": "山东移动",
       "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/raycn120/TVBox@main/live/sdm.txt",
+      "url": "./live/sdm.txt",
       "logo": "./live/logo/{name}.png",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "playerType": 1
