@@ -2,6 +2,26 @@
     "logo": "https://avatars.githubusercontent.com/u/154854684?v=4",
     "wallpaper": "http://tool.teyonds.com/api",
     "spider": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/jar/fan.txt;md5;1a7ffa0691e3836e78668e5f8b19f9f1",
+    "rules": [
+        {
+            "name": "cdn.ryplay",
+            "hosts": [
+                "cdn.ryplay"
+            ],
+            "regex": [
+                "5.480000",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.480000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:5.320000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:3.360000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:4.000000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:0.560000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        }
+    ],
+    "hosts": [
+        "img1.wsyzy.org=fan.cloudflare.182682.xyz",
+        "fiizvfck.top=fan.cloudflare.182682.xyz",
+        "images.67c6c7a.com=fan.cloudflare.182682.xyz"
+    ],
     "sites": [
         {
             "key": "光影",
@@ -178,26 +198,6 @@
             "changeable": 0,
             "ext": "https://www.xb6v.com/"
         }
-    ],
-    "rules": [
-        {
-            "name": "cdn.ryplay",
-            "hosts": [
-                "cdn.ryplay"
-            ],
-            "regex": [
-                "5.480000",
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.480000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:5.320000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:3.360000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:4.000000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:0.560000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-            ]
-        }
-    ],
-    "hosts": [
-        "img1.wsyzy.org=fan.cloudflare.182682.xyz",
-        "fiizvfck.top=fan.cloudflare.182682.xyz",
-        "images.67c6c7a.com=fan.cloudflare.182682.xyz"
     ],
     "lives": [
         {
