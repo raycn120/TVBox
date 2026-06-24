@@ -179,35 +179,35 @@
             "ext": "https://www.xb6v.com/"
         }
     ],
-  "rules": [
-    {
-      "name": "cdn.ryplay",
-      "hosts": [
-        "cdn.ryplay"
-      ],
-      "regex": [
-        "5.480000",
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.480000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:5.320000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:3.360000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
-        "#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:4.000000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:0.560000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-      ]
-    }
-  ],
-  "lives": [
-    {
-      "name": "山东移动",
-      "type": 0,
-      "url": "./live/sdm.m3u",
-      "logo": "./live/logo/{name}.png",
-      "playerType": 1
-    },
-    {
-      "name": "网络平台",
-      "type": 0,
-      "url": "./live/net.m3u",
-      "logo": "./live/logo/{name}.png",
-      "playerType": 1
-    }
-  ]
+    "rules": [
+        {
+            "name": "cdn.ryplay",
+            "hosts": [
+                "cdn.ryplay"
+            ],
+            "regex": [
+                "5.480000",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.480000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:5.320000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:3.360000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:4.000000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:0.560000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        }
+    ],
+    "lives": [
+        {
+            "name": "山东移动",
+            "type": 0,
+            "url": "./live/sdm.m3u",
+            "logo": "./live/logo/{name}.png",
+            "playerType": 1
+        },
+        {
+            "name": "网络平台",
+            "type": 0,
+            "url": "./live/net.m3u",
+            "logo": "./live/logo/{name}.png",
+            "playerType": 1
+        }
+    ]
 }
