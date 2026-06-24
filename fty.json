@@ -1,7 +1,7 @@
 {
     "logo": "https://avatars.githubusercontent.com/u/154854684?v=4",
     "wallpaper": "http://tool.teyonds.com/api",
-    "spider": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/jar/fan.txt;md5;1a7ffa0691e3836e78668e5f8b19f9f1",
+    "spider": "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/jar/fan.txt;md5;1a7ffa0691e3836e78668e5f8b19f9f1",
     "sites": [
         {
             "key": "光影",
