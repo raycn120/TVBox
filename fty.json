@@ -196,21 +196,21 @@
     ],
     "lives": [
         {
-            "name": "山东移动",
+            "name": "山东移动①",
             "type": 0,
             "url": "./live/sdm.m3u",
             "logo": "./live/logo/{name}.png",
             "playerType": 1
         },
         {
-            "name": "网络平台",
+            "name": "网络平台①",
             "type": 0,
             "url": "./live/net.m3u",
             "logo": "./live/logo/{name}.png",
             "playerType": 1
         },
         {
-            "name": "山东移动",
+            "name": "山东移动②",
             "type": 0,
             "url": "./live/sdm.txt",
             "logo": "./live/logo/{name}.png",
@@ -218,7 +218,7 @@
             "playerType": 1
         },
         {
-            "name": "网络平台",
+            "name": "网络平台②",
             "type": 0,
             "url": "./live/net.txt",
             "logo": "./live/logo/{name}.png",
