@@ -224,7 +224,7 @@
             "playerType": 1
         },
         {
-            "name": "网络平台",
+            "name": "网络平台②",
             "type": 0,
             "url": "./live/net.txt",
             "logo": "./live/logo/{name}.png",
