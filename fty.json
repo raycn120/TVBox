@@ -196,17 +196,9 @@
     ],
     "lives": [
         {
-            "name": "山东移动①",
+            "name": "山东移动",
             "type": 0,
-            "url": "./live/sdm.m3u",
-            "logo": "./live/logo/{name}.png",
-            "playerType": 1
-        },
-        {
-            "name": "网络平台①",
-            "type": 0,
-            "url": "./live/net.m3u",
-            "logo": "./live/logo/{name}.png",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/raycn120/SDU-IPTV-PRO/main/SDM-Unicast.m3u",
             "playerType": 1
         },
         {
@@ -218,17 +210,11 @@
             "playerType": 1
         },
         {
-            "name": "网络平台②",
+            "name": "网络平台",
             "type": 0,
             "url": "./live/net.txt",
             "logo": "./live/logo/{name}.png",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "playerType": 1
-        },
-        {
-            "name": "山东移动-泰安",
-            "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/SDM-Unicast/SDM-Unicast-Taian.m3u",
             "playerType": 1
         }
     ]
