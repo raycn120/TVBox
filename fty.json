@@ -224,6 +224,12 @@
             "logo": "./live/logo/{name}.png",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "playerType": 1
+        },
+        {
+            "name": "山东移动③",
+            "type": 0,
+            "url": "https://wget.la/https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/Mobile-Shandong-taian.m3u",
+            "playerType": 1
         }
     ]
 }
