@@ -225,7 +225,7 @@
             "type": 0,
             "url": "./live/sdm.txt",
             "logo": "./live/logo/{name}.png",
-            "epg": "https://epg.zsdc.eu.org/api/diyp/?ch={name}&date={date}",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "playerType": 1
         },
         {
