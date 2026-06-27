@@ -235,6 +235,12 @@
             "logo": "./live/logo/{name}.png",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "playerType": 1
+        },
+        {
+            "name": "世界杯",
+            "type": 0,
+            "url": "http://82.156.243.185:33389/fwc.m3u",
+            "playerType": 2
         }
     ]
 }
