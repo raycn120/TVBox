@@ -137,8 +137,6 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000356/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000357/index.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="./logo/快乐垂钓.png" group-title="文化频道",快乐垂钓
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000648/index.m3u8
-#EXTINF:-1 tvg-name="茶频道" tvg-logo="./logo/茶频道.png" group-title="文化频道",茶频道
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000649/index.m3u8
 #EXTINF:-1 tvg-name="梨园频道" tvg-logo="./logo/梨园频道.png" group-title="文化频道",梨园频道
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000656/index.m3u8
 #EXTINF:-1 tvg-name="武术世界" tvg-logo="./logo/武术世界.png" group-title="文化频道",武术世界
