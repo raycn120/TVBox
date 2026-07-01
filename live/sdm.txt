@@ -49,6 +49,8 @@ CCTV17,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
 新疆卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000393/index.m3u8
 兵团卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000394/index.m3u8
 宁夏卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000395/index.m3u8
+陕西卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000397/index.m3u8
+内蒙古卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000398/index.m3u8
 
 有线频道,#genre#
 山东齐鲁,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
