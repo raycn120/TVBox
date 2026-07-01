@@ -201,23 +201,15 @@
     ],
     "lives": [
         {
-            "name": "山东移动",
-            "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/raycn120/SDU-IPTV-PRO/main/SDM-Unicast.m3u",
-            "playerType": 1
-        },
-        {
             "name": "山东移动①",
             "type": 0,
             "url": "./live/sdm.m3u",
-            "logo": "./live/logo/{name}.png",
             "playerType": 1
         },
         {
             "name": "网络平台①",
             "type": 0,
             "url": "./live/net.m3u",
-            "logo": "./live/logo/{name}.png",
             "playerType": 1
         },
         {
