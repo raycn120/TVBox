@@ -75,6 +75,7 @@ CGTN西语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000354/index.m3u8
 CGTN法语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000355/index.m3u8
 CGTN阿语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000356/index.m3u8
 CGTN俄语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000357/index.m3u8
+环球旅游,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000643/index.m3u8
 快乐垂钓,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000648/index.m3u8
 梨园频道,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000656/index.m3u8
 武术世界,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000657/index.m3u8
@@ -82,6 +83,7 @@ CGTN俄语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000357/index.m3u8
 卡酷少儿,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000661/index.m3u8
 CETV4,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000666/index.m3u8
 求索纪录,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000667/index.m3u8
+生态环境,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000671/index.m3u8
 居家购物,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000700/index.m3u8
 汽摩频道,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000711/index.m3u8
 动漫秀场,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002000/index.m3u8
@@ -98,3 +100,6 @@ CETV4,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000666/index.m3u8
 CHC家庭影院,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
 CHC影迷电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
 CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
+短剧,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002031/index.m3u8
+影视解说,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002032/index.m3u8
+电影大片,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002033/index.m3u8
