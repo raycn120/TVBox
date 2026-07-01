@@ -139,6 +139,8 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000355/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000356/index.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="./logo/CGTN俄语.png" group-title="数字频道",CGTN俄语
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000357/index.m3u8
+#EXTINF:-1 tvg-name="环球旅游" tvg-logo="./logo/环球旅游.png" group-title="数字频道",环球旅游
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000643/index.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="./logo/快乐垂钓.png" group-title="数字频道",快乐垂钓
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000648/index.m3u8
 #EXTINF:-1 tvg-name="梨园频道" tvg-logo="./logo/梨园频道.png" group-title="数字频道",梨园频道
@@ -153,6 +155,8 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000661/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000666/index.m3u8
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="./logo/求索纪录.png" group-title="数字频道",求索纪录
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000667/index.m3u8
+#EXTINF:-1 tvg-name="生态环境" tvg-logo="./logo/生态环境.png" group-title="数字频道",生态环境
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000671/index.m3u8
 #EXTINF:-1 tvg-name="居家购物" tvg-logo="./logo/居家购物.png" group-title="数字频道",居家购物
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000700/index.m3u8
 #EXTINF:-1 tvg-name="汽摩频道" tvg-logo="./logo/汽摩频道.png" group-title="数字频道",汽摩频道
@@ -185,3 +189,9 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="./logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
+#EXTINF:-1 tvg-name="短剧" tvg-logo="./logo/短剧.png" group-title="数字频道",短剧
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002031/index.m3u8
+#EXTINF:-1 tvg-name="影视解说" tvg-logo="./logo/影视解说.png" group-title="数字频道",影视解说
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002032/index.m3u8
+#EXTINF:-1 tvg-name="电影大片" tvg-logo="./logo/电影大片.png" group-title="数字频道",电影大片
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002033/index.m3u8
