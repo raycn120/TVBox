@@ -212,12 +212,6 @@
   ],
   "lives": [
     {
-      "name": "Kimentanm",
-      "type": 0,
-      "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "playerType": 2
-    },
-    {
       "name": "山东移动①",
       "type": 0,
       "url": "./live/sdm.m3u",
