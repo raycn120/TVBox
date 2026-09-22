@@ -1,7 +1,7 @@
 {
     "logo": "https://avatars.githubusercontent.com/u/154854684?v=4",
     "wallpaper": "http://tool.teyonds.com/api",
-    "spider": "https://zl.wpscdn.cn/2026/08/19/space_img/3494f72d-11fa-4b7d-934a-3bb976851336.jpg;md5;1fb66ff185ea35252d2ae2a07d058ec1",
+    "spider": "./jar/fan.txt;md5;8e8a7c81f650553aa83ae2674c3f24b4",
     "sites": [
         {
             "key": "光影",
