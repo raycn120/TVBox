@@ -218,41 +218,38 @@
       "playerType": 2
     },
     {
-      "name": "综合直播",
+      "name": "山东移动①",
       "type": 0,
-      "url": "http://193.123.86.190:14888/TV/iptv.php",
-      "ua": "bingcha/1.1 (mianfeifenxiang)",
+      "url": "./live/sdm.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "网络平台①",
+      "type": 0,
+      "url": "./live/net.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "山东移动②",
+      "type": 0,
+      "url": "./live/sdm.txt",
+      "logo": "./live/logo/{name}.png",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "playerType": 1
+    },
+    {
+      "name": "网络平台②",
+      "type": 0,
+      "url": "./live/net.txt",
+      "logo": "./live/logo/{name}.png",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "playerType": 1
+    },
+    {
+      "name": "世界杯",
+      "type": 0,
+      "url": "http://82.156.243.185:33389/fwc.m3u",
       "playerType": 2
-    },
-    {
-      "name": "范明明（需开启V6网络）",
-      "type": 0,
-      "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
-      "playerType": 2
-    },
-    {
-      "name": "虎牙一起看",
-      "type": 0,
-      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
-    },
-    {
-      "name": "斗鱼一起看",
-      "type": 0,
-      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
-    },
-    {
-      "name": "YY轮播",
-      "type": 0,
-      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
     }
   ]
 }
