@@ -1,4 +1,5 @@
 {
+  "logo": "https://avatars.githubusercontent.com/u/154854684?v=4",
   "spider": "./jar/fan.txt;md5;8e8a7c81f650553aa83ae2674c3f24b4",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
   "sites": [
@@ -633,7 +634,6 @@
       ]
     }
   ],
-  "logo": "https://bdcache1-f1.v3mh.com/image/25-12-16/6941612717007.gif",
   "hosts": [
     "img1.wsyzy.org=fan.cloudflare.182682.xyz",
     "fiizvfck.top=fan.cloudflare.182682.xyz",
