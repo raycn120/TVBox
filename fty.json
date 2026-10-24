@@ -1,6 +1,6 @@
 {
   "logo": "https://avatars.githubusercontent.com/u/154854684?v=4",
-  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/203ad3dd8c5d2a606af70c361ca6d358.jpg;md5;25f4460aed52987f02865f02a1e83aa8",
+  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/e05f19091b8106dd81c34becbae3ad1c.jpg;md5;b55978c4fe6d12e2fea9075f17c8a67a",
   "wallpaper": "http://tool.teyonds.com/api",
   "sites": [
     {
@@ -14,23 +14,23 @@
       "ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CLrWka31GRq7jwVkfQRB/Jy9HkG7E8xUBIJi5DdVFk3qAuGnwUWqQNRblRxzHW+tdSm6zoFcG/QkZ97bzWOXn0fzbgwjBDkBHgcPIYjlULlctCNKgJ9DzGNSl+zMZDZgmxczsZeeahRS38Cst3qvaHn1T2lmLBGVGXPaRovi77LPRRDOJSNRrdpvCHdRikYwgar0MU56hXMGeGBiKp/OmGTIYR8dFRGvZ/m8xGOqs8U13h6wvADOGlYoP9VaQBqTcDnz9Q0Urhw3oFXWyvIlUrDhX9la5L2NYzagbyk3afqhxeSXXp07nAFsNy2CojHRTbmz4eohLoIJTSi2DzPpheVx1DAapfgRdTc7Ax5ddYpN338GiDAa0GnEgLe04a1pZ5jF+/Q7HJswqlSO+DXCQ3FjRbb/ZPQcozcCWwzhUHE1QUAt799V9DPMuiHGyudIcZarGQmezB+Lb45RdHIRy0PXD+NRVPJlfDFD5FMGSqsiVklibvuwlVHT8J5vHgh/1nEZoI1RlYYLrkjTts2EeQmrpB/sgLyo1vnjFw=="
     },
     {
-      "key": "原创",
-      "name": "👒原创┃不卡",
-      "type": 3,
-      "api": "csp_YCyzGuard",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "厂长",
       "name": "📔厂长┃不卡",
       "type": 3,
       "api": "csp_NewCzGuard",
       "timeout": 10,
       "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "海绵",
+      "name": "🐬海绵┃不卡",
+      "type": 3,
+      "api": "csp_HmysGuard",
+      "timeout": 10,
+      "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -112,6 +112,19 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "uqGL1bNENExT7/hGxpSE5qU="
+    },
+    {
+      "key": "风云",
+      "name": "☁️风云┃多线",
+      "type": 3,
+      "api": "csp_FyGuard",
+      "ext": {
+        "type": "video",
+        "name": "Fy"
+      },
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 1
     },
     {
       "key": "视界",
